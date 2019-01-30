@@ -1,0 +1,17 @@
+{
+  "name": "purescript-scoped-labels",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^4.1.0",
+    "purescript-arrays": "^5.2.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^4.0.0",
+    "purescript-assert": "^4.0.0"
+  }
+}
